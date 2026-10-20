@@ -11,3 +11,4 @@ public enum CharacterType {                             // baris 7: deklarasi en
     HEALER,      // karakter penyembuh — HP tinggi, attack rendah
     ZOMBIE
 }                                                        // baris 13: tutup enum, TANPA titik koma setelah kurung kurawal ini
+
